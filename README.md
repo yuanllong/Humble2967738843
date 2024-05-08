@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Long  yuan and I'm a Beginners in search algorithms, recommendation algorithms, advertising algorithms, data science, and natural language processing from China</p>
+<p align="left">My name is Yuan Long and I'm a Beginners in search algorithms, recommendation algorithms, advertising algorithms, data science, and natural language processing from China</p>
 
 ###
 
